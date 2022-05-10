@@ -10,6 +10,6 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-[![Adarsh Liju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Liju)]()
+[![Adarsh Liju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Liju&theme=monokai)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Liju&langs_count=5&theme=monokai)]()
