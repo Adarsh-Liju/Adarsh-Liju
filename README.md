@@ -1,5 +1,4 @@
-### Hi there 👋 I am **Adarsh Liju Abraham**
-
+# Adarsh Liju Abraham
 
 <!--  
 - 🔭 I’m currently working on 
