@@ -9,5 +9,6 @@ I am Adarsh Liju Abraham.
 
 ![Adarsh GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Liju&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Adarsh-Liju&currStreakNum=2FD3EB&fire=pink&sideLabels=F00](https://git.io/streak-stats)
 
 ![Stats](https://api.githubtrends.io/user/svg/Adarsh-Liju/langs?time_range=one_year&theme=dark)
