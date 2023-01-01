@@ -8,3 +8,6 @@ I am Adarsh Liju Abraham.
 - 📫 How to reach me: adarsh.liju.abraham@gmail.com
 
 ![Adarsh GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Liju&show_icons=true&theme=radical)
+
+
+![Stats](https://api.githubtrends.io/user/svg/Adarsh-Liju/langs?time_range=one_year&theme=dark)
