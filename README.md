@@ -1,14 +1,38 @@
 # Adarsh Liju Abraham
 
-## Hi 👋 
-I am Adarsh Liju Abraham.
+## 👋 Hello, I'm Adarsh Liju Abraham.
 
-<!-- - 🔭 I’m currently working on Graph Projects -->
-<!-- - 👯 I’m looking to collaborate on Linux and C++ projects -->
-- 📫 How to reach me: adarsh.liju.abraham@gmail.com
+- 🌐 [Website](https://adarsh-liju.netlify.app/)
+- 📧 [Email](mailto:adarsh.liju.abraham@gmail.com)
+- 📚 [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
 
-![Adarsh GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Liju&show_icons=true&theme=radical)
+### About Me
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Adarsh-Liju&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)
+I'm a passionate coder with a love for operating systems and opensource software.
 
-![Stats](https://api.githubtrends.io/user/svg/Adarsh-Liju/langs?time_range=one_year&theme=dark)
+### What I'm Working On
+<!--
+- 🔭 I'm currently working on [mention your current project or focus].
+- 🌱 I'm learning [mention what you're learning].
+- 👯 I'm looking to collaborate on [mention areas or projects you're interested in collaborating on].
+- 💬 Ask me about [mention topics you're knowledgeable about].
+- 📫 How to reach me: [your email address]
+-->
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Liju&show_icons=true&theme=radical)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Liju&layout=compact&theme=radical)
+<!--
+### Projects
+
+Here are some of my featured projects:
+
+- [Project 1](https://github.com/YourGitHubUsername/project1) - Brief description.
+- [Project 2](https://github.com/YourGitHubUsername/project2) - Brief description.
+- [Project 3](https://github.com/YourGitHubUsername/project3) - Brief description.
+-->
+
+
